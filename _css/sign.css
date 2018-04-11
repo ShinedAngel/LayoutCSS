@@ -1,0 +1,37 @@
+.container {
+	position: relative;
+	left: 35%;
+
+}
+
+.panel-heading {
+	color: #f15488;
+	text-align: center;
+	text-transform: uppercase;
+    padding: 5px 15px;
+}
+
+.panel-footer {
+
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+
+.profile-img {
+
+	margin-left: 50px;
+	width: 96px;
+	height: 96px;
+	margin: 10px;
+	display: block;
+	border-radius: 50%;
+}
+
+#acesse {
+	background-color: #f15488;
+	border-color: #f15488;
+}
+
+a{
+	color: #f15488;
+}
