@@ -34,17 +34,6 @@ p {
   background-color: #8B475D;
 }
 
-a{
-  text-decoration: none;
-  color: white;
-  font-family: arial, sans-serif;
-}
-
-a:hover {
-  color: pink;
-  text-decoration: underline;
-}
-
 #cabecalho {
   height: 100px;
   padding: 10px;
@@ -67,17 +56,25 @@ nav {
 
 aside {
   padding: 2%;
-  height: 300px;
+  height: 487px;
   width: 30%;
   background-color: #8B4789;
   float: left;
 }
 
-main{
-  height: 300px;
+#box{
+  height: 337px;
   width: 70%;
   padding: 2%;
   background-color: #F67280;
+  float: right;
+}
+
+#main{
+  height: 150px;
+  width: 70%;
+  padding: 2%;
+  background-color: #CD5C5C;
   float: right;
 }
 
